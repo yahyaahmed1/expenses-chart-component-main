@@ -148,7 +148,9 @@ hr {
 @media (max-width: 550px) {
   main {
     width: 350px;
-    height: 590px;
+  }
+  .info h1 {
+    font-size: 1.4em;
   }
   .column {
     margin: auto;

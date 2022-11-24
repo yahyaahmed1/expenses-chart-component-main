@@ -127,9 +127,10 @@ hr {
   align-items: flex-end;
   flex-direction: column;
 }
-.last h6 {
+.last span {
   margin: 0;
   font-size: 0.9em;
+  font-weight: 700;
 }
 .last p {
   margin: 0;
